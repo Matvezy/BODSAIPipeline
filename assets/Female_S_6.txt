@@ -1,0 +1,4 @@
+height: 175
+bust: 85
+waist: 65
+hips: 92
